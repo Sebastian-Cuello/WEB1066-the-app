@@ -1,7 +1,8 @@
+sudo: required
 language: java
 jdk: oraclejdk9
 
 install: ./gradlew clean jar
 
 script:
-  - echo 'testing comming soon'
+  - ./gradlew test
