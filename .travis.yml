@@ -1,6 +1,8 @@
 sudo: required
 language: java
-jdk: oraclejdk9
+jdk: 
+  - oraclejdk9
+  - oraclejdk8
 
 env:
   - COVERAGE=0.5 TARGET=ui
