@@ -1,3 +1,9 @@
+
+# Notation from Sebastián Cuello
+  This project is from the course "Continuous integration" from coursera imparted from UC DAVIS.
+  This project is used to know how we can use the continuous integration system TRAVIS CI in a program like this.
+  I just fork this project for that.
+  
 # Microservice Phone Shop Application and CD pipeline
 
 ## Introduction
